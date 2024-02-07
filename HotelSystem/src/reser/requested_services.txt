@@ -1,2 +1,2 @@
-
 moh,movie,goood,200.0
+moh,GYM,aasal,1000.0
